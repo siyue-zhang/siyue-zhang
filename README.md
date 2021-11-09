@@ -1,7 +1,8 @@
 - 📫 siyue.zhang.sg@gmail.com
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
-
+<br>
+[![Leetcode Badge](https://img.shields.io/badge/Leetcode-2531-GREEN.svg)](https://leetcode.com/z106186883/)
+<br>
 
 <!---
 siyue-zhang/siyue-zhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
