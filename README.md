@@ -1,6 +1,6 @@
 - 📫 siyue.zhang.sg@gmail.com
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=siyue-zhang)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 
 
 <!---
