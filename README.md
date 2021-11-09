@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @siyue.zhang
-- 👀 I’m interested in AIOT
 - 📫 siyue.zhang.sg@gmail.com
 
 <!---
