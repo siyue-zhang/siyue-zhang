@@ -1,6 +1,3 @@
-- 🤵 PhD Student
-- 📫 siyue001@e.ntu.edu.sg
-
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=z106186883)](https://github.com/KnlnKS/leetcode-stats)
 
 <!---
